@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @KeatonTM
-- 👀 I’m interested in graphics design and gaming.
-- 🌱 I’m currently learning how to use Discord Bot Maker and how to make a proffesional discord bot for my server.
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me: Keaton#806 on Discord
+𝗠𝘆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲
+↳ 👋 Hi, I’m @KeatonTM
+↳ 👀 Interested in Graphics Design and Gaming.
+
+𝗠𝘆 𝗳𝗼𝗰𝘂𝘀...
+↳ 🌱 I am attempting to get better at creating discord bots and websites
+↳ 🌸 I am able to create organised discord servers and server icons using powerpoint.
+
+𝗣𝗲𝗼𝗽𝗹𝗲...
+↳ 💞️ Sorry, I'm not looking to collaborate right now.
+↳ 📫 You can contact me on discord via Keaton_#9349
+↳ 🦥 Don't expect quick responses, I'm rarely on here.
 
 <!---
 KeatonTM/KeatonTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
